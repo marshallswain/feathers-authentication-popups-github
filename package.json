@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "debug": "^2.2.0",
-    "feathers-authentication-oauth2": "^0.2.2",
+    "feathers-authentication-oauth2": "^0.2.3",
     "feathers-authentication-popups": "^0.1.2",
     "feathers-errors": "^2.4.0",
     "passport-github": "^1.1.0"
