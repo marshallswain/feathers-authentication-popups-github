@@ -1,7 +1,7 @@
 {
   "name": "feathers-authentication-popups-github",
   "description": "Server plugin for GitHub OAuth2 popup-based login",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/feathersjs/feathers-authentication-popups-github",
   "main": "lib/",
   "keywords": [
