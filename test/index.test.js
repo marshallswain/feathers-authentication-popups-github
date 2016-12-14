@@ -8,6 +8,9 @@ describe('feathers-authentication-popups-github', () => {
 
   it('basic functionality', () => {
     expect(typeof plugin).to.equal('function', 'It worked');
-    expect(typeof plugin({}, {name: 'feathers-jwt'})).to.equal('function');
+    var options = {
+      successRedirect: '/auth/success'
+    };
+    expect(typeof plugin(options, {name: 'feathers-jwt'})).to.equal('function');
   });
 });
