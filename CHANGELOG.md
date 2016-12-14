@@ -1,5 +1,12 @@
 # Change Log
 
+## [v1.0.1](https://github.com/feathersjs/feathers-authentication-popups-github/tree/v1.0.1) (2016-12-14)
+[Full Changelog](https://github.com/feathersjs/feathers-authentication-popups-github/compare/v1.0.0...v1.0.1)
+
+**Closed issues:**
+
+- Handle popup when there's no cookie set. [\#2](https://github.com/feathersjs/feathers-authentication-popups-github/issues/2)
+
 ## [v1.0.0](https://github.com/feathersjs/feathers-authentication-popups-github/tree/v1.0.0) (2016-12-14)
 [Full Changelog](https://github.com/feathersjs/feathers-authentication-popups-github/compare/v0.0.3...v1.0.0)
 
