@@ -1,5 +1,7 @@
 # feathers-authentication-popups-github
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/feathersjs/feathers-authentication-popups-github.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/feathersjs/feathers-authentication-popups-github.png?branch=master)](https://travis-ci.org/feathersjs/feathers-authentication-popups-github)
 [![Code Climate](https://codeclimate.com/github/feathersjs/feathers-authentication-popups-github/badges/gpa.svg)](https://codeclimate.com/github/feathersjs/feathers-authentication-popups-github)
 [![Test Coverage](https://codeclimate.com/github/feathersjs/feathers-authentication-popups-github/badges/coverage.svg)](https://codeclimate.com/github/feathersjs/feathers-authentication-popups-github/coverage)
